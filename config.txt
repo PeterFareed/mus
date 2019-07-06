@@ -1,0 +1,6 @@
+owner=547091659553243138
+prefix=9
+game=Break | 9play
+stayinchannel=true
+songinstatus=false
+token=NTkxMDc3MzMxNTA3MDg1MzQz.XQrhrQ.3hy1LkMel1GWIsS0G3lMG-r9Rq4
